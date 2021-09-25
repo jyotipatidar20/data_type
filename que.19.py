@@ -1,0 +1,10 @@
+varx="very"
+var_2="good"
+var_3="4.5"
+var_4=30
+var_5=10
+vary=str(var_4)
+print(vary)
+varz=str(var_5)
+print(varz)
+print(varx+var_2+var_3+vary+varx)
